@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b50c95b.css",
-    "main.js": "/static/js/main.c2ae4b5a.js",
+    "main.css": "/static/css/main.7ac2b383.css",
+    "main.js": "/static/js/main.d25b3d7e.js",
     "static/js/787.d7317416.chunk.js": "/static/js/787.d7317416.chunk.js",
     "static/media/video.mp4": "/static/media/video.7a72f0e426ae0ca0a651.mp4",
     "static/media/pawel-szvmanski-CD6pT9Uzx1Y-unsplash.jpg": "/static/media/pawel-szvmanski-CD6pT9Uzx1Y-unsplash.db29df233854c94f11b3.jpg",
@@ -10,7 +10,6 @@
     "static/media/Rectangle 31.png": "/static/media/Rectangle 31.ee6ce581378364e06b2b.png",
     "static/media/sexy-2742629_1920.jpg": "/static/media/sexy-2742629_1920.e10df90a4fe86b007c8a.jpg",
     "static/media/1.jpg": "/static/media/1.ee0026331af99caca10d.jpg",
-    "static/media/mainImage.jpeg": "/static/media/mainImage.bacee3fd1a3433dbc3b9.jpeg",
     "static/media/Rectangle 90.png": "/static/media/Rectangle 90.c3278dc736e34cb5d087.png",
     "static/media/Rectangle 91.png": "/static/media/Rectangle 91.a858116927a8c5c19eab.png",
     "static/media/Rectangle 137-2.png": "/static/media/Rectangle 137-2.27cbc62f2d51cc6e1ff6.png",
@@ -32,7 +31,6 @@
     "static/media/Rectangle 16.png": "/static/media/Rectangle 16.39c53bffa4536ac49a04.png",
     "static/media/Rectangle 14.png": "/static/media/Rectangle 14.0d57d597f52a6536699e.png",
     "static/media/Rectangle 15.png": "/static/media/Rectangle 15.dd9b622517bb72d338c8.png",
-    "static/media/userimage.jpg": "/static/media/userimage.615ea89f89de04ce1b4b.jpg",
     "static/media/2.jpg": "/static/media/2.ee217af8ee0a312f910c.jpg",
     "static/media/Rectangle 117.png": "/static/media/Rectangle 117.6561db2f8319e1c41d30.png",
     "static/media/Rectangle 17.png": "/static/media/Rectangle 17.2854d25cc3e763715697.png",
@@ -45,17 +43,18 @@
     "static/media/7.jpg": "/static/media/7.6133495e39efc7f14ce2.jpg",
     "static/media/5.jpg": "/static/media/5.cdda4d08db99012b53ca.jpg",
     "static/media/6.jpg": "/static/media/6.dde53184723c9954970b.jpg",
+    "static/media/noprofileImage.png": "/static/media/noprofileImage.9e37e236b52fbd273106.png",
     "static/media/Rectangle 38.png": "/static/media/Rectangle 38.628e69dc1c5eb5d296d1.png",
     "static/media/amexLogo.png": "/static/media/amexLogo.72c73823cfb10924b14a.png",
     "static/media/image 14.png": "/static/media/image 14.f6467c42646f9db77458.png",
     "static/media/image 16.png": "/static/media/image 16.c7ead1d6a5996cf0faac.png",
     "index.html": "/index.html",
-    "main.0b50c95b.css.map": "/static/css/main.0b50c95b.css.map",
-    "main.c2ae4b5a.js.map": "/static/js/main.c2ae4b5a.js.map",
+    "main.7ac2b383.css.map": "/static/css/main.7ac2b383.css.map",
+    "main.d25b3d7e.js.map": "/static/js/main.d25b3d7e.js.map",
     "787.d7317416.chunk.js.map": "/static/js/787.d7317416.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b50c95b.css",
-    "static/js/main.c2ae4b5a.js"
+    "static/css/main.7ac2b383.css",
+    "static/js/main.d25b3d7e.js"
   ]
 }
